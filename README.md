@@ -1,0 +1,1 @@
+这是用 html+css+javascript 仿的简易的小米网站，还没有很多的交互效果
